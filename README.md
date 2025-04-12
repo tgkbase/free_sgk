@@ -5,10 +5,10 @@
 
 社工库bot有很多，但是其中很多是重复的信息，以下是个人筛选后觉得最好用的几个，基本上集合了网上所有免费社工库的功能和信息：
 
-## 1. [星盾](https://t.me/XingDun2Bot?start=eAzPiQM)
+## 1. [星盾](https://www.shegongku.top/34.html)
 - 数据超全，**全网独家包含45亿快递数据**
 - 每日3次查询次数，结果部分打码，解码需积分
-- [点击使用](https://t.me/XingDun2Bot?start=eAzPiQM)
+- [点击使用](https://www.shegongku.top/34.html)
 
 ## 2. [Seed](https://t.me/SeedSGKBOT?start=88omv8f2j)
 - 似乎有支付宝，法人，微信，b站，qq群反查功能，没有全部试过
