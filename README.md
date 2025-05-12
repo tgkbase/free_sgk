@@ -23,12 +23,11 @@
 - bot里不能签到，但可以进频道里面每日签到
 - [点击使用](https://t.me/BOXsgkbot?start=tmme4LO)
 
-## 4. [X-ray](https://t.me/Zonesgk_bot?start=QPOOTYOSUU)
-- 查询免费，结果部分打码，解码需积分，新用户有免费积分
+## 4. [X-ray](https://t.me/Zonesgk_bot001)
 - 可以签到获得积分
 - 有**地址反查**和**证件补齐功能**
 - 地址数据仅次于以上几个bot
-- [点击使用](https://t.me/Zonesgk_bot?start=QPOOTYOSUU)
+- [点击使用](https://www.shegongku.top/46.html)
 
 ## 5. [叮当猫](https://t.me/DingDangCats_Bot?start=d36f465147a9ca6c)
 - 查询免费，结果部分打码，解码需1积分
