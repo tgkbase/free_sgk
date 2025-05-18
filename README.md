@@ -15,7 +15,7 @@
 - 搜完手机以后有“附近的人”功能……还没搞懂是干嘛的，要充钱
 - 可以签到
 - 个人比较喜欢的是数据来源标签打得比较清楚（天猫/JD/圆通等）
-- [点击使用](https://t.me/SeedSGKBOT?start=88omv8f2j)
+- [点击使用](https://t.me/QingBaoJuXuanwubot?start=NjU=)
 
 ## 3. [黑盒](https://t.me/BOXsgkbot?start=tmme4LO)
 - **地址数据仅次于星盾**
